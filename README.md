@@ -19,7 +19,7 @@ Nuxt.js • Vue 2/3 • TypeScript • JavaScript • Pinia • Vuetify • Vite
 ---
 
 ### 🌐 Open To  
-Senior Frontend Engineer • Vue.js Developer • Middle Frontend Developer (Vue)
+Senior Frontend Engineer • Vue.js Developer • Senior Frontend Developer (Vue)
 
 ### 📫 Contact  
 📧 Email: **artursadrtdinovweb@gmail.com**  
